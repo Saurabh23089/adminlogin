@@ -35,7 +35,7 @@ const Barracuda = () => {
                 <div className='flex flex-row'>
                     <img src="https://www.barracuda.com/content/dam/barracuda-corp/images/site/logo_barracuda_primary_reversed.svg" alt="Barracuda logo" className="md:h-64 md:w-64 h-32 w-32 md:mt-20 mt-0 mr-2 bg-[##f8fafc]" href="https://www.barracudanetworks.com/?a=bws_product" />
                     <div className="flex flex-row md:mt-48 mt-12 gap-2 ">
-                        <p className="md:text-5xl   text-3xl font-[5] text-white">|</p>
+                        <p className="md:text-5xl   text-4xl font-[5] text-white">|</p>
                         <div className="flex flex-row mt-3 md:mt-4 gap-2 md:text-3xl text-white" >
                             <h1 className="">Web</h1>
                             <h1>Application</h1>
