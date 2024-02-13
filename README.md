@@ -20,7 +20,7 @@ Enter your username and password in the respective input boxes.
 Click on the "Sign In" button to navigate to a new webpage.
 
 Technologies Used - 
-HTML
-CSS
-JavaScript
+HTML,
+CSS,
+JavaScript,
 ReactJS
