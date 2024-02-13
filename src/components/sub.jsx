@@ -11,7 +11,6 @@ const Barracuda = () => {
         i18n.changeLanguage(e.target.value);
     }
 
-    console.log(sl);
 
     return (
         
