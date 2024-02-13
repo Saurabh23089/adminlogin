@@ -1,10 +1,9 @@
-// i18n.js
 import i18n from 'i18next';
 import { initReactI18next } from 'react-i18next';
 
 // Translation resources
 const resources = {
-  ca: { // Catalan language
+  ca: { 
     translation: {
       adminLoginText: 'Si us plau, introdueixi el seu nom d\'usuari d\'administrador i la seva contrasenya.',
       usernamePlaceholder: 'convidat',
@@ -49,7 +48,7 @@ const resources = {
   }
   
   }
-  // Add more languages as needed
+ 
 
 
 i18n
